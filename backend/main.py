@@ -10,7 +10,7 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "Welcome to ShambaSmart 🌱"}
+    return {"message": "Welcome to ShambaSmart - Your Number One Farming Assistant!"}
 
 
 @app.get("/ask")
