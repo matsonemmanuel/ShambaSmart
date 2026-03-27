@@ -8,5 +8,9 @@ farming_data = {
         "feeding": "Broilers should be fed starter, grower, and finisher feeds.",
         "eggs": "Ensure proper lighting and nutrition for egg production.",
         "disease": "Common diseases include Newcastle and coccidiosis."
-    }
+    },
+    "beans": {
+    "planting": "Beans grow well in moderate rainfall areas.",
+    "harvest": "Beans mature in about 2-3 months."
+}
 }
